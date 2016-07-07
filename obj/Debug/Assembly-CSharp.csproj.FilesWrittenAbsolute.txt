@@ -1,0 +1,17 @@
+/Users/mick/Documents/Repos/proceduralGrid/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/mick/Documents/Repos/proceduralGrid/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/mick/Documents/Repos/proceduralGrid/obj/Debug/Assembly-CSharp.dll
+/Users/mick/Documents/Repos/proceduralGrid/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/mick/Documents/Repos/proceduralGrid/Temp/bin/Debug/UnityEngine.dll
+/Users/mick/Documents/Repos/proceduralGrid/Temp/bin/Debug/UnityEditor.dll
+/Users/mick/Documents/Repos/proceduralGrid/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/mick/Documents/Repos/proceduralGrid/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/mick/Documents/Repos/proceduralGrid/Temp/bin/Debug/Mono.Cecil.dll
+/Users/mick/Documents/Repos/proceduralGrid/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/mick/Documents/Repos/proceduralGrid/Temp/bin/Debug/Unity.DataContract.dll
+/Users/mick/Documents/Repos/proceduralGrid/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/mick/Documents/Repos/proceduralGrid/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/mick/Documents/Repos/proceduralGrid/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/mick/Documents/Repos/proceduralGrid/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/mick/Documents/Repos/proceduralGrid/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/mick/Documents/Repos/proceduralGrid/Temp/bin/Debug/Mono.Cecil.Mdb.dll
